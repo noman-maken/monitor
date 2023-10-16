@@ -1,4 +1,3 @@
-// pages/index.tsx
 'use client'
 import React, { useEffect } from 'react';
 import ThreeDMonitor from './screen/page';
